@@ -1,8 +1,8 @@
 import 'package:dotted_border/dotted_border.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:untitled6/pages/detail/detail.dart';
-import 'package:untitled6/providers/comments_provider.dart';
+import 'package:test_technique/pages/detail/detail.dart';
+import 'package:test_technique/providers/comments_provider.dart';
 
 import '../../../providers/comments_provider.dart';
 import '../../../providers/pictures_provider.dart';

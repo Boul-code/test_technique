@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 
-import 'package:untitled6/models/comments.dart';
+import 'package:test_technique/models/comments.dart';
 
 class CommentsProvider with ChangeNotifier {
   List<Comments> comments = [];

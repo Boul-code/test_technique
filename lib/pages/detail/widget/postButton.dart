@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:untitled6/providers/comments_provider.dart';
+import 'package:test_technique/providers/comments_provider.dart';
 import '../../../providers/posts_provider.dart';
 
 class PostButton extends StatefulWidget {

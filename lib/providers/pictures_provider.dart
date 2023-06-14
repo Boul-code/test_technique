@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 import 'dart:math';
-import 'package:untitled6/models/picture.dart';
+import 'package:test_technique/models/picture.dart';
 
 class PicturesProvider with ChangeNotifier {
   List<Picture> randomPhotos = [];

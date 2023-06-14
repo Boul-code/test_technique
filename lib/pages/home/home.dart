@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:untitled6/providers/posts_provider.dart';
-import 'package:untitled6/providers/user_provider.dart';
-import 'package:untitled6/pages/home/widget/bottomSheetButton.dart';
-import 'package:untitled6/pages/home/widget/header.dart';
-import 'package:untitled6/pages/home/widget/postButton.dart';
+import 'package:test_technique/providers/posts_provider.dart';
+import 'package:test_technique/providers/user_provider.dart';
+import 'package:test_technique/pages/home/widget/bottomSheetButton.dart';
+import 'package:test_technique/pages/home/widget/header.dart';
+import 'package:test_technique/pages/home/widget/postButton.dart';
 import '../detail/detail.dart';
 import 'package:flutter_staggered_animations/flutter_staggered_animations.dart';
 

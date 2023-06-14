@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:untitled6/pages/home/widget/searchBar.dart';
+import 'package:test_technique/pages/home/widget/searchBar.dart';
 
 import '../../../providers/posts_provider.dart';
 

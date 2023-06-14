@@ -1,6 +1,6 @@
 import 'package:dotted_border/dotted_border.dart';
 import 'package:flutter/material.dart';
-import 'package:untitled6/providers/pictures_provider.dart';
+import 'package:test_technique/providers/pictures_provider.dart';
 import '../../../models/user.dart';
 import 'package:provider/provider.dart';
 

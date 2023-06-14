@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:untitled6/pages/detail/widget/article_body.dart';
-import 'package:untitled6/pages/detail/widget/comments.dart';
-import 'package:untitled6/pages/detail/widget/header.dart';
+import 'package:test_technique/pages/detail/widget/article_body.dart';
+import 'package:test_technique/pages/detail/widget/comments.dart';
+import 'package:test_technique/pages/detail/widget/header.dart';
 import '../../models/posts.dart';
 import '../../models/user.dart';
 import '../../providers/comments_provider.dart';
